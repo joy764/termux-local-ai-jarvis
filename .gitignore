@@ -1,0 +1,6 @@
+*.gguf
+*.bin
+.env
+__pycache__/
+*.pyc
+llama.cpp/
